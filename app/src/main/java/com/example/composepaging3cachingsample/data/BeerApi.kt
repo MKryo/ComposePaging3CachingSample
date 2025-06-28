@@ -1,4 +1,4 @@
-package com.example.composepaging3cachingsample.data.remote
+package com.example.composepaging3cachingsample.data
 
 import retrofit2.http.GET
 import retrofit2.http.Query

@@ -1,4 +1,4 @@
-package com.example.composepaging3cachingsample.data.remote
+package com.example.composepaging3cachingsample.data
 
 data class BeerDto(
     val id: Int,
